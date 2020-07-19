@@ -1,5 +1,5 @@
 ### Hi there,it's me Gaurav 👋
-<img src="pictures/screenshot.png">
+<img src="pictures/pp.png">
 -I have good knowledge of python
 -Learning everyday,currently learning to Data science.
 -I'm always looking for challenging work.

@@ -1,5 +1,5 @@
 ### Hi there,it's me Gaurav 👋
-![](C:\Users\Dell\Pictures\Screenshots\Screenshot (61).png)
+<img src="pictures/screenshot.png">
 -I have good knowledge of python
 -Learning everyday,currently learning to Data science.
 -I'm always looking for challenging work.

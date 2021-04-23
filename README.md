@@ -5,7 +5,7 @@
 - 😎 Expert in pandas library
 - ✏ I'm always looking for challenging work.
 - ❤ I like to share codes and projects.
-- how to reach me: [check it out!](https://www.instagram.com/codesgaurav/?hl=en)
+- how to reach me: [check it out!](https://www.instagram.com/grv_chauhan05/)
 - I try to: Go beyond and push the bounds
 
 ### Other place you can find me

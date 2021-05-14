@@ -4,7 +4,7 @@
 - 😎 I'm looking to collaborate on projects involving my skill sets(HTML,CSS,JAVASCRIPT)
 - ✏ I'm always looking for challenging work.
 - ❤ I like to share codes and projects.
-- how to reach me: [check it out!](https://mail.google.com/mail/u/0/?tab=rm#inbox)
+- how to reach me: [check it out!](https://www.instagram.com/grv_chauhan05/?hl=en)
 
 
 ### Other place you can find me

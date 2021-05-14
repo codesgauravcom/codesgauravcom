@@ -1,11 +1,10 @@
 ### Hi there,it's me Gaurav 👋
-![codesgauravcom](https://github.com/codesgauravcom/codesgauravcom/blob/master/pp.png)
 - 💻 I have good knowledge of python
 - 👀 I'm interested in Web Development
-- 😎 I'm lookin to collaborate on projects involving my skill sets(HTML,CSS,JAVASCRIPT)
+- 😎 I'm looking to collaborate on projects involving my skill sets(HTML,CSS,JAVASCRIPT)
 - ✏ I'm always looking for challenging work.
 - ❤ I like to share codes and projects.
-- how to reach me: [check it out!](https://www.instagram.com/grv_chauhan05/)
+- how to reach me: [check it out!](chauhangaurav9090@gmail.com)
 
 
 ### Other place you can find me

@@ -7,6 +7,5 @@
 - how to reach me: [check it out!](https://www.instagram.com/grv_chauhan_1999/)
 
 
-### Other place you can find me
-[see my tweet](https://twitter.com/GauravS12921418)
+
 
